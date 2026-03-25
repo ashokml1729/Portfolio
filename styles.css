@@ -301,7 +301,7 @@ img {
 .hero-title {
   font-size: 1.35rem;
   font-weight: 600;
-  color: var(--text-secondary);
+  color: purple;
   margin-bottom: 16px;
 }
 
